@@ -13,7 +13,7 @@ body {
   margin: 0;
   min-height: 100vh;
   background-color: #ecf0f1;
-  background-image: url(/bg-image.jpg);
+  background-image: url(bg-image.jpg);
   background-size: cover;
   color: #000000;
   font-family: "Oswald", sans-serif;
